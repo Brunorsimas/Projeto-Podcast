@@ -18,14 +18,14 @@ Bem-vindo ao repositório do projeto do podcast **"Entre Espadas e Canecas"**, u
    - Refinamento de diálogos e transições com ChatGPT.  
 
 2. **Narração e Vozes**:  
-   - Geração de áudio no [ElevenLabs](https://elevenlabs.io) (vozes do apresentador e entrevistado).  
+   - Geração de áudio no [ElevenLabs](https://elevenlabs.io) (vozes do apresentador).  
 
 3. **Edição de Áudio**:  
    - Mixagem de vozes, trilha sonora e efeitos no [CapCut](https://www.capcut.com).  
 
 4. **Arte do Banner**:  
-   - Imagem gerada via ChatGPT (DALL·E) com prompts como:  
-     *"Banner de podcast medieval futurista com espadas, canecas de hidromel e elementos de MMORPG, estilo cartoon épico"*  
+   - Imagem gerada via ChatGPT (DALL·E) com prompts:  
+     *"Banner de podcast medieval futurista com espadas, canecas de hidromel e elementos de MMORPG"*  
 
 ---
 
@@ -33,7 +33,6 @@ Bem-vindo ao repositório do projeto do podcast **"Entre Espadas e Canecas"**, u
 - **Edição de Áudio**: [CapCut Editor Online](https://www.capcut.com)  
 - **IA de Roteiro**: [DeepSeek Chat](https://chat.deepseek.com)  
 - **IA de Voz**: [ElevenLabs](https://elevenlabs.io)  
-- **Exemplo de Roteiro**: [`roteiro_podcast.md`](/roteiro_podcast.md) (no repositório)  
 
 ---
 
@@ -64,12 +63,9 @@ Siga estas etapas para recriar ou adaptar o projeto:
 
 ---
 
-## 📜 **Licença**
-Livre para uso e adaptação (créditos opcionais). Projeto não comercial.  
-
 **🎮 Divirta-se criando!**  
 *"Porque toda grande aventura começa com um 'E aí, galera?'"*  
 
 --- 
 
-📢 **Acesse o podcast**: [Link do Spotify/YouTube] *(em construção)*
+📢 **Acesse o podcast**: *(em construção)*
